@@ -1,2 +1,2 @@
-# Projects
+# Python Projects
 Consist of projects completed.
